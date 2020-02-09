@@ -1,0 +1,9 @@
+C:\Users\Eylem\source\repos\CheckersApp\CheckersApp\bin\Debug\CheckersApp.exe.config
+C:\Users\Eylem\source\repos\CheckersApp\CheckersApp\bin\Debug\CheckersApp.exe
+C:\Users\Eylem\source\repos\CheckersApp\CheckersApp\bin\Debug\CheckersApp.pdb
+C:\Users\Eylem\source\repos\CheckersApp\CheckersApp\obj\Debug\CheckersApp.csprojAssemblyReference.cache
+C:\Users\Eylem\source\repos\CheckersApp\CheckersApp\obj\Debug\CheckersApp.Form1.resources
+C:\Users\Eylem\source\repos\CheckersApp\CheckersApp\obj\Debug\CheckersApp.Properties.Resources.resources
+C:\Users\Eylem\source\repos\CheckersApp\CheckersApp\obj\Debug\CheckersApp.csproj.GenerateResource.cache
+C:\Users\Eylem\source\repos\CheckersApp\CheckersApp\obj\Debug\CheckersApp.exe
+C:\Users\Eylem\source\repos\CheckersApp\CheckersApp\obj\Debug\CheckersApp.pdb
