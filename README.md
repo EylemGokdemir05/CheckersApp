@@ -1,3 +1,3 @@
-# CheckersApp
-for Basic Level
-<img src="https://github.com/EylemGokdemir05/CheckersApp/blob/master/CheckersApp/CheckersApp/dama.png" alt="dama picture" height="75%" width="75%">
+<h1># CheckersApp</h1>
+<p>for Basic Level</p></br>
+<img src="https://github.com/EylemGokdemir05/CheckersApp/blob/master/CheckersApp/CheckersApp/dama.png" alt="dama picture" height="45%" width="45%">
